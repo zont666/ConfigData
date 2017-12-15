@@ -23,4 +23,10 @@ spring:
   profiles: noun
 words: boat,book,vote,seat,backpack,partition,groundhog
 
+---
+spring:
+  profiles: adjective
+words: reasonable,leaky,suspicious,ordinary,unlikely
+
+
 
